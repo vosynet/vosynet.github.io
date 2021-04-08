@@ -1,0 +1,20 @@
+### Selamat datang di Vosy.Net 👋
+
+Vosy.Net adalah [Media Jual Beli dan Sharing Seputar IT](https://vosy.net).
+
+Beberapa fitur unggulan kami:
+
+1. Jual Beli Produk
+2. Sharing Tutorial / Pengalaman
+3. RekBer ready
+4. Pembayaran via OVO, DANA, LinkAja, GoPay, ShoppePay, BRIVA, BNI VA, Permata VA, Mandiri VA
+5. Dapatkan komisi dengan program Affiliasi
+6. Dan masih terus dikembangkan
+
+Yuk, segera ke ---> [Media Jual Beli dan Sharing Seputar IT - Vosy.Net](https://vosy.net)
+
+Link lain:
+- https://github.com/vosynet
+- https://vosynet.medium.com
+- https://hxndrx.mhs.mercubuana.ac.id
+- https://facebook.com/vosynet

@@ -14,7 +14,7 @@ Beberapa fitur unggulan kami:
 Yuk, segera ke ---> [Media Jual Beli dan Sharing Seputar IT - Vosy.Net](https://vosy.net)
 
 Link lain:
-- https://github.com/vosynet
-- https://vosynet.medium.com
-- https://hxndrx.mhs.mercubuana.ac.id
-- https://facebook.com/vosynet
+- [Github Profile](https://github.com/vosynet)
+- [Medium](https://vosynet.medium.com)
+- [Blog Edu](http://hxndrx.mhs.blog.mercubuana.ac.id)
+- [Facebook](https://facebook.com/vosynet)

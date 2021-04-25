@@ -11,10 +11,10 @@ Beberapa fitur unggulan kami:
 5. Dapatkan komisi dengan program Affiliasi
 6. Dan masih terus dikembangkan
 
-Yuk, segera ke ---> [Media Jual Beli dan Sharing Seputar IT - Vosy.Net](https://vosy.net)
+Yuk, segera ke ---> [Media Jual Beli Produk Digital dan Sharing Seputar IT - Vosy.Net](https://vosy.net)
 
 Link lain:
 - [Github Profile](https://github.com/vosynet)
 - [Medium](https://vosynet.medium.com)
-- [Blog Edu](http://hxndrx.mhs.blog.mercubuana.ac.id)
+- [Blog Journal Edu](http://journal.mhs.blog.mercubuana.ac.id)
 - [Facebook](https://facebook.com/vosynet)

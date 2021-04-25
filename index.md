@@ -1,6 +1,6 @@
 ### Selamat datang di Vosy.Net 👋
 
-Vosy.Net adalah [Media Jual Beli dan Sharing Seputar IT](https://vosy.net).
+Vosy.Net adalah [Media Jual Beli Produk Digital dan Sharing Seputar IT](https://vosy.net).
 
 Beberapa fitur unggulan kami:
 
